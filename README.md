@@ -1,7 +1,9 @@
-# FlowTiger initial Readme.md file
+# FEWD1
 
-## I'll be adding updates to this file as we go.
+## I'll be adding updates to this file as we go
 
-** Your Attitude is Key to Success **
+**Your Attitude is Key to Success**
 
-https://github.com/Flowtiger/FEWD1-EES/blob/main/cool%20tiger%202.jpeg
+![FlowTiger](https://github.com/Flowtiger/FEWD1-EES/blob/main/cool%20tiger%202.jpeg)
+
+### A blend of soft skills and technical skills are important
